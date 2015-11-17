@@ -7,4 +7,6 @@ based on gulp-angular generator
  - provide integrated autocomplete from external services (e.g Bioportal) or embedded vocabulary
  - seperate data from view
  - have many data export options
- - recursive
+ - recursive construction of rules
+ - Dynamic RULES (AND,OR,XOR) and COMPARATORS (>,<,=,equal_to, between)
+ - 
